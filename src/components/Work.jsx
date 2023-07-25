@@ -6,7 +6,7 @@ const data = [
     title: "Sai Gon University",
     duration: "5 Years",
     details:
-      "In previous years, try to study and get 3 scholarships. In the final year of university, look for an internship company to complete the study program and graduate.",
+      "In previous years, try to study and get 3 scholarships. In the final year of university, look for an internship company to complete the study program and graduate. My GPA is 3.31",
   },
 ];
 const Work = () => {
